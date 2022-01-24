@@ -1,0 +1,16 @@
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.exe
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.deps.json
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.runtimeconfig.json
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.runtimeconfig.dev.json
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.dll
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\ref\Projeto_RPG_Bootcamp.dll
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\bin\Debug\net5.0\Projeto_RPG_Bootcamp.pdb
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.AssemblyInfo.cs
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.dll
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\ref\Projeto_RPG_Bootcamp.dll
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.pdb
+C:\Users\Teste\Desktop\Projeto_RPG\Projeto_RPG_Bootcamp\obj\Debug\net5.0\Projeto_RPG_Bootcamp.genruntimeconfig.cache
